@@ -1,0 +1,8 @@
+--prefer-binary
+# -i https://mirrors.ustc.edu.cn/pypi/simple
+--index-url https://mirrors.sustech.edu.cn/pypi/web/simple
+
+textual==0.85.2
+textual-dev
+ruamel.yaml
+pydantic

@@ -1,0 +1,32 @@
+Screen {
+  align: center middle;
+  padding: 1;
+}
+
+.container {
+  height: auto;
+  width: 100%;
+}
+.container-1_2 {
+  height: auto;
+  width: 50%;
+  align: center middle;
+  margin: 1;
+}
+
+MySwitch,
+MyRadioSet,
+MySelectionList {
+  height: auto;
+  width: auto;
+}
+MyInput {
+  height: auto;
+  width: 100%;
+}
+
+.label {
+  height: 3;
+  content-align: center middle;
+  width: auto;
+}
